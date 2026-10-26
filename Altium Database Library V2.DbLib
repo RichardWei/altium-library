@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=sysdiagrams
+LastFocusedTable=Amplifiers_Audio
 [Table1]
 SchemaName=
 TableName=Amplifiers_Audio
@@ -164,6 +164,9 @@ TableName=Capacitors_Film
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=194|Footprint Path0=421|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=111|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=109|Library Path0=283|Library Ref0=77|Applications0=245|Capacitance0=85|Comment0=72|ComponentLink1Description0=170|ComponentLink1URL0=653|ComponentLink2Description0=170|ComponentLink2URL0=585|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Device Package0=101|Dielectric Material0=330|ESR (Equivalent Series Resistance)0=195|Features0=100|Height - Seated (Max)0=133|LastUpdated0=118|Lead Spacing0=91|Lifecycle Status0=100|Manufacturer0=182|Minimum Order0=104|Mounting Type0=101|Operating Temperature0=143|Package / Case0=100|Packaging0=76|Part Status0=78|Price0=47|Ratings0=62|Series0=83|Size / Dimension0=201|Supplier 10=75|Supplier Part Number 10=163|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Termination0=84|Tolerance0=72|Type0=46|Value0=54|Voltage Rating - AC0=124|Voltage Rating - DC0=125
 [Table25]
 SchemaName=
 TableName=Capacitors_Tantalum
@@ -194,6 +197,9 @@ TableName=Clock_GeneratorsPLLsSynthesizers
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=158|Footprint Path0=454|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=162|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=88|Library Path0=466|Library Ref0=144|Comment0=80|ComponentLink1Description0=170|ComponentLink1URL0=943|ComponentLink2Description0=170|ComponentLink2URL0=489|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Device Package0=101|Differential - Input:Output0=160|Divider/Multiplier0=113|Frequency - Max0=107|Input0=92|LastUpdated0=130|Lifecycle Status0=100|Manufacturer0=129|Minimum Order0=104|Mounting Type0=101|Number of Circuits0=119|Operating Temperature0=143|Output0=186|Package / Case0=127|Packaging0=76|Part Status0=78|PLL0=88|Price0=47|Ratio - Input:Output0=129|Series0=73|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Supplier Device Package0=147|Type0=144|Value0=52|Voltage - Supply0=108
 [Table30]
 SchemaName=
 TableName=Connectors_Barrel_Audio
@@ -242,6 +248,9 @@ TableName=Connectors_Memory_CardSockets
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=214|Footprint Path0=488|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=138|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=114|Library Path0=435|Library Ref0=175|Card Type0=166|Comment0=80|ComponentLink1Description0=170|ComponentLink1URL0=938|ComponentLink2Description0=170|ComponentLink2URL0=549|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Connector Type0=123|Contact Finish0=129|Contact Finish Thickness0=149|Device Package0=101|Ejector Side0=83|Features0=67|Height Above Board0=127|Insertion, Removal Method0=162|LastUpdated0=130|Lifecycle Status0=100|Manufacturer0=116|Minimum Order0=104|Mounting Feature0=127|Mounting Type0=151|Number of Positions0=128|Packaging0=76|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=174|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Type0=46|Value0=52
 [Table38]
 SchemaName=
 TableName=Connectors_ModularJacks
@@ -1010,9 +1019,6 @@ TableName=VoltageRegulators_SpecialPurpose
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Applications0=187|Comment0=80|ComponentLink1Description0=170|ComponentLink1URL0=695|ComponentLink2Description0=170|ComponentLink2URL0=555|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Current - Output0=110|Description0=178|Device Package0=101|Footprint Path0=467|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=173|Footprint Ref 20=101|Footprint Ref 30=101|Frequency - Switching0=137|Function0=69|LastUpdated0=124|Lifecycle Status0=100|Manufacturer0=201|Part Number0=92|Minimum Order0=104|Mounting Type0=101|Number of Outputs0=124|Operating Temperature0=143|Output Configuration0=137|Output Type0=87|Package / Case0=127|Packaging0=76|Part Status0=78|Price0=47|Series0=53|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Supplier Device Package0=147|Library Path0=457|Library Ref0=101|Synchronous Rectifier0=135|Topology0=71|Type0=46|Value0=52|Voltage - Input0=101|Voltage - Input (Max)0=131|Voltage - Input (Min)0=130|Voltage - Output0=111|Voltage - Output (Max)0=141|Voltage - Output (Min/Fixed)0=171
 [Table166]
 SchemaName=
 TableName=sqlite_stat1
@@ -1025,9 +1031,6 @@ TableName=sysdiagrams
 Enabled=False
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=name0=51|principal_id0=83|diagram_id0=80|version0=60|definition0=74
 [FieldMap1]
 Options=FieldName=Amplifiers_Audio.Description|TableNameOnly=Amplifiers_Audio|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
